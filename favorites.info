@@ -1,0 +1,5 @@
+name = Favorites
+description = Leads to a page displaying a list of items.
+package = Epicodus Examples
+core = 7.x
+files[] = favorites.module
